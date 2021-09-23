@@ -1,0 +1,51 @@
+* {
+    user-select:none;
+    box-sizing: border-box;
+}
+
+/*  */
+body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color:blueviolet;
+    font-size: 19px;
+}
+
+.box {
+    background-color: cornsilk;
+    padding: 30px;
+    border: blueviolet 10px;
+}
+
+
+#passwordBox {
+    padding: 10px;
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+    border: 2px solid #8d0cf7;
+    font-size: 15px;
+    margin:15px;
+}
+
+.btn1 {
+    font-size: 15px;
+    font-family:sans-serif;
+    color:blueviolet;
+    text-align: center;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    cursor: pointer;
+    margin-left: 50px;
+}
+
+.btn2 {
+    font-size: 12px;
+    font-family:sans-serif;
+    color:blueviolet;
+    
+}
