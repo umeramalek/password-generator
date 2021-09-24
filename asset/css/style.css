@@ -30,7 +30,7 @@ body {
     margin:15px;
 }
 
-.btn1 {
+#btn1 {
     font-size: 15px;
     font-family:sans-serif;
     color:blueviolet;
@@ -43,9 +43,9 @@ body {
     margin-left: 50px;
 }
 
-.btn2 {
+#btn2 {
     font-size: 12px;
     font-family:sans-serif;
     color:blueviolet;
-    
+    cursor: pointer;
 }
